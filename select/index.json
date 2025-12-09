@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Fuma Style",
+  "base_artist": "Fuma no KTR",
+  "createdAt": "2025-12-09T08:21:10.056789Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fuma Style",
+      "artist": "Fuma no KTR",
+      "has_synced": false,
+      "path": "select/pl_01_Fuma_Style_Fuma_no_KTR.txt"
+    }
+  ]
+}
